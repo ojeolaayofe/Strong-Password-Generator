@@ -1,7 +1,4 @@
-#!/usr/bin/python3
-# Strong Password Generator
-# Coded by Tahar Amine ELHOUARI
-# @MrTaharAmine | www.taharamine.me
+
 
 import random
 
